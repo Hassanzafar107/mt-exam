@@ -1,6 +1,0 @@
-# Ignore everything in the plugins directory
-wp-content/plugins/*
-
-# Allow only the mt-exam plugin
-!wp-content/plugins/mt-exam/
-!wp-content/plugins/mt-exam/**
