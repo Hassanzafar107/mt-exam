@@ -1,0 +1,8 @@
+﻿student_name,exam_name,start_datetime,end_datetime,subject_name,term_name,marks
+Ali Khan 1,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Mathematics,Term 1,94
+Ali Khan 2,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Bio,Term 1,90
+Ali Khan 3,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Physics,Term 1,80
+Ali Khan 4,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Chemistry,Term 1,70
+Ali Khan 5,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Urdu,Term 2,70
+Ali Khan 6,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Islamic Studies,Term 2,80
+Ali Khan 7,Mid Term Exam 1,10/01/2025 9:00,10/01/2025 11:00,Pak Studies,Term 2,90
